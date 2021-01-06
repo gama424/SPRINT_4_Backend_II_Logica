@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/atributos e metodos
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/atributos e metodos.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/atributos e metodos.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/atributos e metodos.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/atributos e metodos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/ref/atributos e metodos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/bin/Debug/net5.0/atributos e metodos.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/ref/atributos e metodos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/atributos e metodos/obj/Debug/net5.0/atributos e metodos.genruntimeconfig.cache
