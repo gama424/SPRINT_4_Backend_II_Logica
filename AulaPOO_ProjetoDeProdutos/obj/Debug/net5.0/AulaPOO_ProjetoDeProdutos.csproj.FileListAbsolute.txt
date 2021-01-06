@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/AulaPOO_ProjetoDeProdutos
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/AulaPOO_ProjetoDeProdutos.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/AulaPOO_ProjetoDeProdutos.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/AulaPOO_ProjetoDeProdutos.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/AulaPOO_ProjetoDeProdutos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/ref/AulaPOO_ProjetoDeProdutos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/bin/Debug/net5.0/AulaPOO_ProjetoDeProdutos.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/ref/AulaPOO_ProjetoDeProdutos.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/AulaPOO_ProjetoDeProdutos/obj/Debug/net5.0/AulaPOO_ProjetoDeProdutos.genruntimeconfig.cache
