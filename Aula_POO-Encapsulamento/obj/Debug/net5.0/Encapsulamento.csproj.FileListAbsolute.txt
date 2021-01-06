@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/Encapsulamento
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/Encapsulamento.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/Encapsulamento.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/Encapsulamento.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/Encapsulamento.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/ref/Encapsulamento.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/bin/Debug/net5.0/Encapsulamento.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/ref/Encapsulamento.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/Encapsulamento/obj/Debug/net5.0/Encapsulamento.genruntimeconfig.cache
