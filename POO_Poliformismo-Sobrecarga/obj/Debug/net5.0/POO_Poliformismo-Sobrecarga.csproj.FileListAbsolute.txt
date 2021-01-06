@@ -1,0 +1,5 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_Poliformismo-Sobrecarga/obj/Debug/net5.0/POO_Poliformismo-Sobrecarga.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_Poliformismo-Sobrecarga/obj/Debug/net5.0/POO_Poliformismo-Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_Poliformismo-Sobrecarga/obj/Debug/net5.0/POO_Poliformismo-Sobrecarga.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_Poliformismo-Sobrecarga/obj/Debug/net5.0/POO_Poliformismo-Sobrecarga.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_Poliformismo-Sobrecarga/obj/Debug/net5.0/POO_Poliformismo-Sobrecarga.csproj.CoreCompileInputs.cache
