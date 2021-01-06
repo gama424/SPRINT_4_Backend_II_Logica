@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/LISTAS
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/LISTAS.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/LISTAS.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/LISTAS.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/LISTAS.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/ref/LISTAS.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/bin/Debug/net5.0/LISTAS.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/ref/LISTAS.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/LISTAS/obj/Debug/net5.0/LISTAS.genruntimeconfig.cache
