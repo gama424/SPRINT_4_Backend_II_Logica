@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/POO_interface
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/POO_interface.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/POO_interface.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/POO_interface.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/POO_interface.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/ref/POO_interface.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/bin/Debug/net5.0/POO_interface.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/ref/POO_interface.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/POO_interface/obj/Debug/net5.0/POO_interface.genruntimeconfig.cache
