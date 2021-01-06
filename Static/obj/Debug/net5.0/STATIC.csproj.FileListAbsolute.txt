@@ -1,0 +1,5 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/STATIC/obj/Debug/net5.0/STATIC.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/STATIC/obj/Debug/net5.0/STATIC.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/STATIC/obj/Debug/net5.0/STATIC.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/STATIC/obj/Debug/net5.0/STATIC.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/STATIC/obj/Debug/net5.0/STATIC.csproj.CoreCompileInputs.cache
