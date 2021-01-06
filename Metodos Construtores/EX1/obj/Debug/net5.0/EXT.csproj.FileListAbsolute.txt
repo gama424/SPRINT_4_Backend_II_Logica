@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/EXT
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/EXT.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/EXT.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/EXT.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/EXT.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/ref/EXT.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/bin/Debug/net5.0/EXT.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/ref/EXT.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/EXT/obj/Debug/net5.0/EXT.genruntimeconfig.cache
